@@ -1,0 +1,7 @@
+Hello Vim!
+This is Vim practice!
+
+Hello Vim!
+Hello Vim!
+Hello Vim!
+Hello Vim!
